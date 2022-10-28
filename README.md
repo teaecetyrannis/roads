@@ -1,6 +1,8 @@
 # roads~
 Plugin granular VST3, desarrollado en [Pure Data](https://github.com/pure-data/pure-data) + [Camomile](https://github.com/pierreguillot/Camomile).  
   
+<img src="/roads.png" alt="imagen demostrativa"></img>
+  
 Todos los parámetros del plugin pueden mapearse a midi o ser automatizados, y el estado del plugin se guarda junto al proyecto del host.
 
 ## instalación
